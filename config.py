@@ -30,4 +30,4 @@ LIQPAY_PRIVATE_KEY = os.getenv("LIQPAY_PRIVATE_KEY", "")
 DB_PATH = str(BASE_DIR / "shop.db")
 
 # Валюта магазина
-CURRENCY = "₴"
+CURRENCY = "BYN"
